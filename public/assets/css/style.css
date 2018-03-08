@@ -1,0 +1,51 @@
+/* This file is for formatting the index.handlebars page. */
+
+#override {
+    background-color: lightblue;
+    color: white;
+}
+
+
+hr {
+    border-color:lightblue;
+}
+
+.panel-heading {
+    border-color: rgb(75, 168, 240);
+    border-width: 2px;
+    font-family: 'Lato', sans-serif;
+    background-color:lightblue;
+    color: white;
+    font-size: 18px;
+}
+
+.row.footer.text-center {
+    background-color: lightblue;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    color: white;
+    font-size: 14px; 
+    margin-bottom: 20px;
+}
+
+body {
+    background-color: lightgray;
+}
+h1,
+h2,
+h3,
+p {
+    font-family: 'Lato', sans-serif;
+    
+}
+
+
+
+.btn.btn-default {
+    font-family: 'Lato', sans-serif;
+    color: white;
+    background: lightblue;
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
